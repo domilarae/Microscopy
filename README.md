@@ -1,7 +1,7 @@
 # Microscopy-Projects-
 These projects consist of small programming projects that can be used to aid in microscopy related tasks. 
 
-# WBC Differential Counter (Project 1)
+# WBC Differential Counter (cell counter)
 This simple program allows the user to press the key on the keyboard to count white blood cells in increments and categorizes these cells as neutrophil, lymphocyte, monocyte, eosinophil, and basophil.
 
 # WBC Correction Calculator (Project 2)
